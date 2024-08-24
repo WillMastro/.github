@@ -1,5 +1,3 @@
-Here’s a customized README for the organization WillMaestro:
-
 ---
 
 # Welcome to the WillMaestro Team 🙌
